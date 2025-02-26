@@ -1,0 +1,8 @@
+1.Create a new table in the university database name "table".
+2.the schema is ( teacher_ID int,Name varchar,
+3.Designation varchar, Department varchar, Credit_load int)
+4.Insert 20 random records in the teacher table
+1.Add all student Address in student table 
+2.Sorting the student table based on the CGPA.
+3.Find out the average Credit _load of the teachers.
+4.Find the average due of the students.

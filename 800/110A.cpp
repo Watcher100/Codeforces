@@ -15,6 +15,7 @@ int main (){
             count++;
         }
     }
+    
 
     if(count==4 || count==7){
         cout<<"YES"<<endl;

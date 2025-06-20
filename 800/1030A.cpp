@@ -12,7 +12,6 @@ int main (){
             count++;
         }
     }
-
     if(count==0){
         cout<<"EASY"<<endl;
     }else{

@@ -11,8 +11,4 @@ int main (){
 
     cout<<str1<<endl<<str2<<endl;
 
-
-
-
-
 }

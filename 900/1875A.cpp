@@ -12,6 +12,7 @@ int main(){
             cin>>arr[i];
             c=c+min(arr[i],a-1);
         }
+        
         cout<<c<<endl;
     }
     
